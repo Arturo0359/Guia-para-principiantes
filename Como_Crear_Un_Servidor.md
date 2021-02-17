@@ -1,1 +1,1 @@
-# <div id="guia-de-optimizacion">Guía de optimización para servidores de Minecraft ([Fuente original](https://github.com/YouHaveTrouble/minecraft-optimization))</div>
+# <div id="¿Como-crear-un-servidor-de-Minecraft?">¿Como crear un servidor de Minecraft?</div>
